@@ -8,4 +8,5 @@ The class diagram is:
 ## Diagram class
 
 
-![Imagen](https://github.com/ChisCurubo/ParcialAnalisis/assets/128336431/d3174cf8-a972-4a41-ad99-732c4aa6f85f)
+
+![diagrama](https://github.com/ChisCurubo/ParcialAnalisis/assets/128336431/0257ea64-5106-4149-9d06-263bfbfe1ad4)
